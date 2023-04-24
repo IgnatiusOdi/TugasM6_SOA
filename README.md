@@ -1,2 +1,2 @@
 # TugasM6_SOA
-Nilai : 
+Nilai : 30
